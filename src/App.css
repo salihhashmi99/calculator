@@ -1,0 +1,23 @@
+.App {
+    height: 400px;
+    width: 400px;
+    background-color: rgb(41, 50, 90);
+    border-radius: 2%;
+    margin-top: 10%;
+    justify-content: center;
+}
+
+
+.App .MainArea{
+    display: flex;
+    justify-content: center;
+}
+
+.App .OutputArea{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
